@@ -25,6 +25,8 @@
   > vue-model是从中抽象出的通用前端项目模版，[地址](https://github.com/ColaBlack/vue-model)，具有请求函数生成、全局路由管理、全局状态管理、用户管理等特性。
   >
   > react-model是预期制作的react项目模版，预期从Template Stack项目中抽象。
+  >
+  > VScode_conf是为了解决编程新手难以配置C语言 vscode 环境的问题，提供了一套个人自用的配置，[地址](https://github.com/ColaBlack/VScode_conf)即下即用。
 - litter_insight
   > litter_insight是一个有大数据端、后端、前端的项目，是一个针对某地的群众来信进行大数据可视化分析的项目，由于一些原因只能公开部分内容，
   >
