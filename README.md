@@ -31,11 +31,11 @@
   > [后端地址](https://github.com/ColaBlack/litter_backend)。
   >
   > [前端地址](https://github.com/ColaBlack/litter_insight_frontend)。
-  - ZAFUnity
-    > 是一个基于安卓的校友圈应用，正在闭源开发阶段，暂不公开源码。
-    >
-    > 前端使用uniapp基于wot-design-uni开发。
-    >
-    > 后端基于kotlin和java混合开发，是一个分布式微服务项目。
+- ZAFUnity
+  > 是一个基于安卓的校友圈应用，正在闭源开发阶段，暂不公开源码。
+  >
+  > 前端使用uniapp基于wot-design-uni开发。
+  >
+  > 后端基于kotlin和java混合开发，是一个分布式微服务项目。
 - StudyStart
   > StudyStart是基于Python DrissionPage 和 tkinter制作的学习通作业答案提取、上传脚本，由于学习通网页的变动现已无法使用，但仍然开放源代码供大家参考：[地址](https://github.com/ColaBlack/StudyStart)。
