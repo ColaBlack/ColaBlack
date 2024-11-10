@@ -28,11 +28,11 @@
   >
   > VScode_conf是为了解决编程新手难以配置C语言 vscode 环境的问题，提供了一套个人自用的配置，[地址](https://github.com/ColaBlack/VScode_conf)即下即用。
 - ZAFUnity
-  > 是一个基于安卓的校友圈应用，正在闭源开发阶段，暂不公开源码。
+  > 是一个基于安卓的校友圈应用，正在开发阶段。
   >
-  > 前端使用uniapp基于wot-design-uni开发。
+  > 前端使用uniapp基于wot-design-uni开发。[项目地址](https://github.com/ColaBlack/ZAFUnity-frontend)
   >
-  > 后端基于kotlin和java混合开发，是一个分布式微服务项目。
+  > 后端基于kotlin和java混合开发，是一个分布式微服务项目。[项目地址](https://github.com/ColaBlack/ZAFUnity-backend)
 - google-dinosaur
   > 一个用phaser.js复刻谷歌Chrome浏览器经典小恐龙游戏的玩具项目。
   >
