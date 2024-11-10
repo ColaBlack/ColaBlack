@@ -27,17 +27,25 @@
   > react-model是预期制作的react项目模版，预期从Template Stack项目中抽象。
   >
   > VScode_conf是为了解决编程新手难以配置C语言 vscode 环境的问题，提供了一套个人自用的配置，[地址](https://github.com/ColaBlack/VScode_conf)即下即用。
-- litter_insight
-  > litter_insight是一个有大数据端、后端、前端的项目，是一个针对某地的群众来信进行大数据可视化分析的项目，由于一些原因只能公开部分内容，
-  >
-  > [后端地址](https://github.com/ColaBlack/litter_backend)。
-  >
-  > [前端地址](https://github.com/ColaBlack/litter_insight_frontend)。
 - ZAFUnity
   > 是一个基于安卓的校友圈应用，正在闭源开发阶段，暂不公开源码。
   >
   > 前端使用uniapp基于wot-design-uni开发。
   >
   > 后端基于kotlin和java混合开发，是一个分布式微服务项目。
+- google-dinosaur
+  > 一个用phaser.js复刻谷歌Chrome浏览器经典小恐龙游戏的玩具项目。
+  >
+  > 基于phaser+typescript+react+vite
+  >
+  > 界面懒得美化了，都集成到react里面了，接下来只要按正常方法写页面就能美化了。
+  >
+  > [项目地址](https://github.com/ColaBlack/google-dinosaur)
+- litter_insight
+  > litter_insight是一个有大数据端、后端、前端的项目，是一个针对某地的群众来信进行大数据可视化分析的项目，由于一些原因只能公开部分内容，
+  >
+  > [后端地址](https://github.com/ColaBlack/litter_backend)。
+  >
+  > [前端地址](https://github.com/ColaBlack/litter_insight_frontend)。
 - StudyStart
   > StudyStart是基于Python DrissionPage 和 tkinter制作的学习通作业答案提取、上传脚本，由于学习通网页的变动现已无法使用，但仍然开放源代码供大家参考：[地址](https://github.com/ColaBlack/StudyStart)。
