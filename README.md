@@ -1,7 +1,7 @@
 # 👋 Hi, I’m @ColaBlack
 
 ### 我的个人分享文档
-[个人文档分享](https://colablack.github.io/ColaBlack.githjub.io/)
+[个人文档分享](https://colablack.github.io)
 
 ### 我的项目
 
