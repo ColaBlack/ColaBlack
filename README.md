@@ -11,6 +11,13 @@
   > 后端基于java语言开发，[项目地址](https://github.com/ColaBlack/tea_ai_backend)。
   > 
   > 前端基于vue开发，[项目地址](https://github.com/ColaBlack/tea_ai_frontend)。
+- smartCanvas
+  > 智绘蓝图是一个使用ai进行数据可视化分析的网站。你可以通过它快速的制作自己的可视化分析图表，并将其分享给其他人。
+  > 因为AI进行数据可视化的响应时间比较长，为了优化用户体验，整合了我基于phaser.js制作的google-dinosaur小游戏给用户解闷。
+  >
+  > 后端基于java开发，[项目地址](https://github.com/ColaBlack/SmartCanvas-backend)
+  >
+  > 前端基于react开发，[项目地址](https://github.com/ColaBlack/SmartCanvas-frontend)
 - model系列项目
   > 基于teaai项目，进一步抽象了几个模版项目，用来提高web项目的开发效率。
   >
@@ -24,7 +31,7 @@
   >
   > vue-model是从中抽象出的通用前端项目模版，[地址](https://github.com/ColaBlack/vue-model)，具有请求函数生成、全局路由管理、全局状态管理、用户管理等特性。
   >
-  > react-model是预期制作的react项目模版，预期从Template Stack项目中抽象。
+  > react-model是react项目模版，现在已经从SmartCanvas项目中抽象，[项目地址](https://github.com/ColaBlack/react-model)。
   >
   > VScode_conf是为了解决编程新手难以配置C语言 vscode 环境的问题，提供了一套个人自用的配置，[地址](https://github.com/ColaBlack/VScode_conf)即下即用。
 - ZAFUnity
