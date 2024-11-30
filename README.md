@@ -50,6 +50,12 @@
   > 界面懒得美化了，都集成到react里面了，接下来只要按正常方法写页面就能美化了。
   >
   > [项目地址](https://github.com/ColaBlack/google-dinosaur)
+- TypeGame
+  > 一个用easyX和httplib构建的C++打字小游戏。
+  >
+  > 有完整的客户端和服务端，素材来自智谱ai和FreePD.com 的 Forest Frolic Loop，原作者：Kevin MacLeod。
+  >
+  > [项目地址](https://github.com/ColaBlack/TypeGame)
 - litter_insight
   > litter_insight是一个有大数据端、后端、前端的项目，是一个针对某地的群众来信进行大数据可视化分析的项目，由于一些原因只能公开部分内容，
   >
