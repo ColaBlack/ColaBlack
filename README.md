@@ -21,19 +21,21 @@
 - model系列项目
   > 基于teaai项目，进一步抽象了几个模版项目，用来提高web项目的开发效率。
   >
-  > spring-model是从中抽象出的通用后端项目模版，[地址](https://github.com/ColaBlack/spring-model)，具有用户管理、单点登录、接口文档生成等特性。
+  > spring-model是从中抽象出的通用后端项目模版，[项目地址](https://github.com/ColaBlack/spring-model)，具有用户管理、单点登录、接口文档生成等特性。
   >
-  > no-crud是为了进一步提高开发效率，减少重复劳作开发的模版，基于模版引擎自动生成常见的crud代码，[地址](https://github.com/ColaBlack/nocrud)。
+  > no-crud是为了进一步提高开发效率，减少重复劳作开发的模版，基于模版引擎自动生成常见的crud代码，[项目地址](https://github.com/ColaBlack/nocrud)。
   >
   > ColaGenerate是no-crud的加强版，预期做到能够自动生成类似no-crud的模版，也就是说它是“做模版的模版”，目前仍在开发中，暂不开源。
   >
   > Template Stack是ColaGenerate的进一步设想，希望能提供一个平台供大家自由交换、分享自己生成的各种模版，会在ColaGenerate项目完成之后进行开发。
   >
-  > vue-model是从中抽象出的通用前端项目模版，[地址](https://github.com/ColaBlack/vue-model)，具有请求函数生成、全局路由管理、全局状态管理、用户管理等特性。
+  > vue-model是从中抽象出的通用前端项目模版，[项目地址](https://github.com/ColaBlack/vue-model)，具有请求函数生成、全局路由管理、全局状态管理、用户管理等特性。
   >
   > react-model是react项目模版，现在已经从SmartCanvas项目中抽象，[项目地址](https://github.com/ColaBlack/react-model)。
   >
-  > VScode_conf是为了解决编程新手难以配置C语言 vscode 环境的问题，提供了一套个人自用的配置，[地址](https://github.com/ColaBlack/VScode_conf)即下即用。
+  > VScode_conf是为了解决编程新手难以配置C语言 vscode 环境的问题，提供了一套个人自用的配置，[项目地址](https://github.com/ColaBlack/VScode_conf)即下即用。
+  >
+  > GameModel是由TypeGame项目抽象得到的基于easyX和httplib的c++游戏开发模版，[项目地址](https://github.com/ColaBlack/GameModel)
 - ZAFUnity
   > 是一个基于安卓的校友圈应用，正在开发阶段。
   >
@@ -55,4 +57,4 @@
   >
   > [前端地址](https://github.com/ColaBlack/litter_insight_frontend)。
 - StudyStart
-  > StudyStart是基于Python DrissionPage 和 tkinter制作的学习通作业答案提取、上传脚本，由于学习通网页的变动现已无法使用，但仍然开放源代码供大家参考：[地址](https://github.com/ColaBlack/StudyStart)。
+  > StudyStart是基于Python DrissionPage 和 tkinter制作的学习通作业答案提取、上传脚本，由于学习通网页的变动现已无法使用，但仍然开放源代码供大家参考：[项目地址](https://github.com/ColaBlack/StudyStart)。
